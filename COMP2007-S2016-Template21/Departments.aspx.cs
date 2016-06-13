@@ -13,5 +13,20 @@ namespace COMP2007_S2016_Template21
         {
 
         }
+
+        protected void DepartmentsGridView_RowDeleting(object sender, GridViewDeleteEventArgs e)
+        {
+
+        }
+
+        protected void DepartmentsGridView_Sorting(object sender, GridViewSortEventArgs e)
+        {
+
+        }
+
+        protected void DepartmentsGridView_RowDataBound(object sender, GridViewRowEventArgs e)
+        {
+
+        }
     }
 }
